@@ -5,7 +5,7 @@
 <text x="64" y="158" font-family="Noto Sans CJK TC" font-size="60" font-weight="700" fill="#f4f0e5" text-anchor="start"><tspan x="64" dy="0">下一個問題</tspan></text>
 <path d="M64 198H1016" stroke="#344955" stroke-width="2"/>
 <rect x="64" y="250" width="952" height="556" rx="32" fill="#1a303d"/>
-<text x="540" y="465" font-family="Noto Sans CJK TC" font-size="100" font-weight="700" fill="#f3ca78" text-anchor="middle"><tspan x="540" dy="0">為什麼叫 1♥？</tspan></text>
+<text x="540" y="465" font-family="Noto Sans CJK TC" font-size="84" font-weight="700" fill="#f3ca78" text-anchor="middle"><tspan x="540" dy="0">什麼牌適合叫 1♥？</tspan></text>
 <text x="540" y="640" font-family="Noto Sans CJK TC" font-size="48" font-weight="500" fill="#f4f0e5" text-anchor="middle"><tspan x="540" dy="0">同伴能從這個叫品</tspan><tspan x="540" dy="67.2">知道你的牌長什麼樣子？</tspan></text>
 <text x="540" y="917" font-family="Noto Sans CJK TC" font-size="36" font-weight="600" fill="#f3ca78" text-anchor="middle"><tspan x="540" dy="0">接下來：叫牌如何傳遞資訊</tspan></text>
 </svg>
