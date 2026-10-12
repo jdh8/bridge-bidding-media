@@ -16,7 +16,7 @@
                   本機備份，不納入 Git；包含改版前的程式、文稿與 1920×1080 圖片
 
 Git 管理：
-  納入 SVG 原稿、轉檔程式、文稿、說明、LICENSE、AGENTS.md、.gitignore 與 requirements.txt。
+  納入 SVG 原稿、轉檔程式、文稿、說明、README.md、LICENSE、AGENTS.md、.gitignore 與 requirements.txt。
   png/、overview.jpg、備份/ 與 Python 快取由 .gitignore 排除，保留在本機。
   現有備份有尚未進入 Git 的舊版原稿，先保留；之後以 Git 紀錄追蹤原稿的修改。
   在新的 checkout 中，先安裝 Inkscape、Noto Sans CJK TC 字型，並在 Python 環境中安裝根目錄 requirements.txt 的套件。
