@@ -16,15 +16,16 @@
                   本機備份，不納入 Git；包含改版前的程式、文稿與 1920×1080 圖片
 
 Git 管理：
-  納入 SVG 原稿、轉檔程式、文稿、說明、README.md、LICENSE、AGENTS.md、.gitignore 與 requirements.txt。
+  納入 SVG 原稿、轉檔程式、文稿、說明、README.md、LICENSE、LICENSE-MIT、AGENTS.md、.gitignore 與 requirements.txt。
   png/、overview.jpg、備份/ 與 Python 快取由 .gitignore 排除，保留在本機。
   現有備份有尚未進入 Git 的舊版原稿，先保留；之後以 Git 紀錄追蹤原稿的修改。
   在新的 checkout 中，先安裝 Inkscape、Noto Sans CJK TC 字型，並在 Python 環境中安裝根目錄 requirements.txt 的套件。
   再從專案根目錄執行 python3 pilot/make_frames.py，產生 PNG 與總覽。
 
 授權：
-  本專案的原創文稿、SVG 圖卡、程式，以及由這些原稿製作的 PNG、總覽、錄音與影片，均採 CC BY 4.0 授權。
+  本專案的原創文稿、SVG 圖卡，以及由這些原稿製作的 PNG、總覽、錄音與影片，均採 CC BY 4.0 授權。
   Copyright (c) 2026 Chen-Pang He；授權全文見根目錄 LICENSE，摘要見 https://creativecommons.org/licenses/by/4.0/deed.zh-hant
+  程式碼（make_frames.py）採 MIT 授權，全文見根目錄 LICENSE-MIT。
   可使用、修改、散布與商用；須標示作者、附上授權連結，並註明是否經過修改。
   單獨分享圖卡、錄音或影片時，在說明中寫上「Chen-Pang He，CC BY 4.0」與授權連結即可，不必隨附 LICENSE 全文。
   冷光等外部教材、字型與第三方套件維持各自授權，不因本專案的 CC BY 4.0 授權而改變。

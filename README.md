@@ -25,5 +25,8 @@ SVG 是畫面的原稿；`pilot/png/` 與 `pilot/overview.jpg` 由程式產生�
 
 ## 授權
 
-Copyright (c) 2026 Chen-Pang He。本專案的文稿、圖卡、程式及其衍生的圖片、錄音與影片，均採
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) 授權，全文見 [LICENSE](LICENSE)。
+Copyright (c) 2026 Chen-Pang He。
+
+- 程式碼（`*.py`）採 MIT 授權，全文見 [LICENSE-MIT](LICENSE-MIT)。
+- 其餘文稿、圖卡及其衍生的圖片、錄音與影片，採
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) 授權，全文見 [LICENSE](LICENSE)。
