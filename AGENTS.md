@@ -10,7 +10,7 @@
 
 ## 教材與取材
 
-- 撰寫腳本、選牌例或核對叫牌內容時，先查作者最近製作的 mdBook：`~/src/bridge-tutorial`（本機 `/home/jdh8/src/bridge-tutorial`）。
+- 撰寫腳本、選牌例或核對叫牌內容時，先查作者最近製作的 mdBook：同層目錄 `../bridge-tutorial`（GitHub：https://github.com/jdh8/bridge-tutorial）。
 - 從 `src/SUMMARY.md` 找對應章節，再讀相關正文；術語沿用 `src/glossary.md`，需要了解用字理由時查 `docs/terminology.md`。影片使用台灣繁體中文。
 - mdBook 是文字教材來源，不必逐章拍成影片；依本系列的叫牌定位選材。
 - 遇到制度取捨或尚未定案的內容，查 mdBook 的 `docs/README.md` 與對應設計筆記，保留其未定案狀態。

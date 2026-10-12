@@ -68,7 +68,7 @@
 接下來，我們看叫牌怎麼傳遞資訊。
 
 【教材來源】
-/home/jdh8/src/bridge-tutorial/src/auction.md
+https://github.com/jdh8/bridge-tutorial/blob/main/src/auction.md
 本組圖卡取材自「叫品」與「合約、莊家、夢家」，只介紹叫品的字面意思。
 開叫所需的牌力、牌型與同伴間的約定留到後續；本組圖卡不示範出牌。
 
