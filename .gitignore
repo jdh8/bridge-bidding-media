@@ -1,0 +1,10 @@
+# SVG exports
+/pilot/png/
+/pilot/overview.jpg
+
+# Local backups
+/備份/
+
+# Python cache
+__pycache__/
+*.py[cod]

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#101f29"/>
+<text x="64" y="64" font-family="Noto Sans CJK TC" font-size="28" font-weight="500" fill="#a9bdc7" text-anchor="start"><tspan x="64" dy="0">橋牌叫牌  /  讀懂叫品</tspan></text>
+<text x="1016" y="64" font-family="Noto Sans CJK TC" font-size="26" font-weight="500" fill="#a9bdc7" text-anchor="end"><tspan x="1016" dy="0">03 / 09</tspan></text>
+<text x="64" y="158" font-family="Noto Sans CJK TC" font-size="60" font-weight="700" fill="#f4f0e5" text-anchor="start"><tspan x="64" dy="0">線位加六，才是目標磴數</tspan></text>
+<path d="M64 198H1016" stroke="#344955" stroke-width="2"/>
+<rect x="64" y="250" width="952" height="556" rx="32" fill="#1a303d"/>
+<text x="540" y="465" font-family="Noto Sans CJK TC" font-size="100" font-weight="700" fill="#f3ca78" text-anchor="middle"><tspan x="540" dy="0">6 + 1 = 7</tspan></text>
+<text x="540" y="640" font-family="Noto Sans CJK TC" font-size="48" font-weight="500" fill="#f4f0e5" text-anchor="middle"><tspan x="540" dy="0">一線：至少吃到 7 磴</tspan></text>
+<text x="540" y="917" font-family="Noto Sans CJK TC" font-size="36" font-weight="600" fill="#f3ca78" text-anchor="middle"><tspan x="540" dy="0">一副牌有 13 磴，7 磴才過半</tspan></text>
+</svg>
