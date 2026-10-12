@@ -23,11 +23,11 @@ Git 管理：
   再從專案根目錄執行 python3 pilot/make_frames.py，產生 PNG 與總覽。
 
 授權：
-  本專案的原創文稿、SVG 圖卡、程式，以及由這些原稿製作的 PNG、總覽、錄音與影片，均採 MIT 授權。
-  Copyright (c) 2026 Chen-Pang He；授權全文見根目錄 LICENSE。
-  可使用、修改、散布與商用；散布副本或實質部分時，須保留版權聲明與 MIT 授權全文。
-  單獨分享圖卡、錄音或影片時，請隨附 LICENSE，例如放在同一份下載包中。
-  冷光等外部教材、字型與第三方套件維持各自授權，不因本專案的 MIT 授權而改變。
+  本專案的原創文稿、SVG 圖卡、程式，以及由這些原稿製作的 PNG、總覽、錄音與影片，均採 CC BY 4.0 授權。
+  Copyright (c) 2026 Chen-Pang He；授權全文見根目錄 LICENSE，摘要見 https://creativecommons.org/licenses/by/4.0/deed.zh-hant
+  可使用、修改、散布與商用；須標示作者、附上授權連結，並註明是否經過修改。
+  單獨分享圖卡、錄音或影片時，在說明中寫上「Chen-Pang He，CC BY 4.0」與授權連結即可，不必隨附 LICENSE 全文。
+  冷光等外部教材、字型與第三方套件維持各自授權，不因本專案的 CC BY 4.0 授權而改變。
 
 預覽與使用：
   先執行轉檔指令，再看 overview.jpg 的九張總覽與 png/ 內的單張原圖確認文字。
